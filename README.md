@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigi-beridze
-- 👀 I’m interested in Full Stack dvelopment
-- 🌱 I’m currently learning Full Stack dvelopment
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on development company
 - 📫 How to reach me gigi.beridze.2018@gmail.com
 
