@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gigi-beridze
-- 👀 I’m interested in fllStack dvelopment
+- 👀 I’m interested in fullStack dvelopment
 - 🌱 I’m currently learning fullStack dvelopment
 - 💞️ I’m looking to collaborate on development cmpany
 - 📫 How to reach me gigi.beridze.2018@gmail.com
