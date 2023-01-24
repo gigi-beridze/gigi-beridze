@@ -8,9 +8,11 @@
         <samp>
           <a href="https://www.linkedin.com/in/gigi-beridze-367126214/">「 Connect Me 」</a>
                 <br>
-                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b>」</p>
+                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b> 」</p>
                 <br>
                 <br>
+	![image](https://user-images.githubusercontent.com/82542634/214319837-6f0d6d94-2260-4754-9e76-8f4e096e3d4a.png)
+
           <br><br>
         </samp>
 
