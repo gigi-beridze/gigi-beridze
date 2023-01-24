@@ -26,7 +26,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Frontend Developer from Georgia <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/>   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  from Georgia <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> 
 
 - 🔭 I am trying to find a job where I can develop.
 - 🌱 I'm currently learning full stack development 
