@@ -12,7 +12,9 @@
                 <br>
                 <br>
 	<p align="center">
-![image](https://user-images.githubusercontent.com/82542634/214320371-97aadadb-b2c0-4172-b139-c1205176dc21.png);
+		
+![image](https://user-images.githubusercontent.com/82542634/214320371-97aadadb-b2c0-4172-b139-c1205176dc21.png)
+		
 	</p>
           <br><br>
         </samp>
