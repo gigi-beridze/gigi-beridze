@@ -31,7 +31,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 I am trying to find a job where I can develop.
 - 🌱 I'm currently learning full stack development 
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; gigi.beridze.2018@gmail.com
+- 📫 How to reach me: &nbsp;gigi.beridze.2018@gmail.com
 
 ---
 
