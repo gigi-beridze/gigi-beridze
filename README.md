@@ -1,17 +1,14 @@
 
-<a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="right" alt="Visits"></a>
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Gigi Beridze</a></b>
         </samp>
 </h3>
 <p align="center">
-        <!-- Organisation  -->
         <samp>
           <a href="https://www.linkedin.com/in/gigi-beridze-367126214/">「 Connect Me 」</a>
                 <br>
-                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b></p>」
+                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b>」</p>
                 <br>
                 <br>
           <br><br>
