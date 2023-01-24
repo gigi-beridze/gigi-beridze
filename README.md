@@ -13,8 +13,8 @@
                 「 gigi.beridze.2018@gmail.com </b> 」
 		</p>
 		</p>
-		<br>
         </samp>	
+	
 ---------------------
 
 <p>Welcome to my page! </br> I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b></p>
