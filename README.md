@@ -1,6 +1,5 @@
 
 <h3 align="center">
-	![image](https://user-images.githubusercontent.com/82542634/214320371-97aadadb-b2c0-4172-b139-c1205176dc21.png)
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Gigi Beridze</a></b>
         </samp>
@@ -9,7 +8,11 @@
         <samp>
           <a href="https://www.linkedin.com/in/gigi-beridze-367126214/">「 Connect Me 」</a>
                 <br>
-                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b> 」</p>
+                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b> 」 
+		
+		![image](https://user-images.githubusercontent.com/82542634/214320371-97aadadb-b2c0-4172-b139-c1205176dc21.png)
+		
+		</p>
 	
 	
                 <br>
