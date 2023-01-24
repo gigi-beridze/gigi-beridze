@@ -11,7 +11,9 @@
                 「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/><b>Georgia,Batumi</b> 」
 		</p>
 		<br>
-		gmail: gigi.beridze.2018@gmail.com
+	                <br>
+                「 gmail: gigi.beridze.2018@gmail.com </b> 」
+		</p>
         </samp>
 			
 			
