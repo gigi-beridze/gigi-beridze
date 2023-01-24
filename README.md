@@ -29,8 +29,8 @@
 I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  from Georgia <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> 
 
 - 🔭 I am trying to find a job where I can develop.
-- 🌱 I'm currently learning full stack development 
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🌱 I'm currently learning Full Stack development.
+- ⚡ I am trying to develop. 
 - 📫 How to reach me: &nbsp;gigi.beridze.2018@gmail.com
 
 ---
