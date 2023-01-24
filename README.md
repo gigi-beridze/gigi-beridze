@@ -1,6 +1,6 @@
 
 <h3 align="center">
-        <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hey There!, I am
+        <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/gigi-beridze-367126214/">Gigi Beridze</a></b>
         </samp>
 </h3>
