@@ -16,10 +16,11 @@
 		<br>
         </samp>	
 			
-			
+		
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)	
+
 <h1>Hey! Nice to see you </h1>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p>Welcome to my page! </br> I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b></p>
 
