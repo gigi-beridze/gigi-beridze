@@ -11,9 +11,10 @@
                 「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b> 」
 		                <br>
                 「 gigi.beridze.2018@gmail.com </b> 」
-	![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 		</p>
 		</p>
+		![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+		
 		<br>
         </samp>	
 			
