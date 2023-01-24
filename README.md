@@ -11,10 +11,6 @@
                 「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b> 」
 		</p>
         </samp>
-	
-![image](https://user-images.githubusercontent.com/82542634/214323566-b1314902-e2d7-4206-916a-c026c27afb89.png)
-
-
 			
 			
 <h1>Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
