@@ -1,6 +1,6 @@
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/gigi-beridze-367126214/">Gigi Beridze</a></b>
         </samp>
 </h3>
@@ -17,7 +17,7 @@
         </samp>
 			
 			
-<h1>Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1>Hey! Nice to see you </h1>
 
 <p>Welcome to my page! </br> I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Batumi</b></p>
 
