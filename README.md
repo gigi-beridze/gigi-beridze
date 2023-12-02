@@ -24,7 +24,7 @@
 </p>
 
 
-### :woman_technologist: &nbsp;About Me :
+### &nbsp;About Me :
 
 I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  from Georgia <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> 
 
