@@ -8,7 +8,7 @@
         <samp>
           <a href="https://www.linkedin.com/in/gigi-beridze-367126214/">「 Connect Me 」</a>
 		<br>
-                「 I'm Gigi Beridze, Frontend developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Tbilisi</b> 」
+                「 I'm Gigi Beridze, Fullstack Developer From <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3H91rMHOtAkEBOTBOmU_VVdIUEaRMFVjDrtVAfm&s" width="13"/> <b>Georgia,Tbilisi</b> 」
 		                <br>
                 「 gigi.beridze.2018@gmail.com </b> 」
 	<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
